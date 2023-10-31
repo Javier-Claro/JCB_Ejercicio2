@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ejercicio2NumernoElevado.Servicios
+namespace Ejercicio2.Servicios
 {
     internal class PreguntaImplemetacion : PreguntaInterfaz
     {

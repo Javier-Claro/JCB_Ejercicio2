@@ -8,5 +8,6 @@ namespace Ejercicio2.Servicios
 {
     internal interface PreguntaInterfaz
     {
+        public double pedirNumero();
     }
 }
